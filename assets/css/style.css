@@ -638,7 +638,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color:#A09ABC;
     height: 56px;
     line-height: 56px;
   }
@@ -724,6 +724,7 @@ small {
     text-align: center;
     margin: 0 auto;
   }
+  
   #intro.section {
     background-position-x: 30%;
   }
