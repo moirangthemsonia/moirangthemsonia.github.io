@@ -511,6 +511,11 @@ a.hoverline:hover {
   flex-direction: column;
   height: 100%;
 }
+.equal-height-new {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+}
 @media (max-width: 600px) {
   .row {
     flex-direction: row;
@@ -740,4 +745,16 @@ small {
   .card-reveal ul {
     font-size: 0.75rem; /* Even smaller content font size */
   }
+}
+#publish1{
+  color:#333;
+  opacity: 0.8;
+  transition: 0.3s;
+  text-transform: capitalize
+}
+
+
+#publish1:hover {
+  color:black;
+  opacity: 1;
 }
