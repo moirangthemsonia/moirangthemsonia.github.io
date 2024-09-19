@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid #B6A6CA; 
   border-radius: 50% !important;
 }
 
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #B6A6CA;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -93,6 +93,11 @@
   display: inline-block;
   border-radius: 5px;
   -webkit-border-radius: 5px;
+  opacity: 1;
+}
+.readme:hover {
+  opacity: 0.6;
+  color: #3B1F2B;
 }
 
 /* .readme:hover{
@@ -116,7 +121,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #3B1F2B;
   background-color: white;
 }
 /* main body */
@@ -124,7 +129,7 @@
 /* body-color */
 
 body {
-  color: #333;
+  color: #3B1F2B; 
   font-size: 18px;
 }
 
@@ -140,7 +145,8 @@ body {
 } */
 
 a {
-  color: #004d40;
+  /* color: #004d40; */
+  color: #3B1F2B;
 }
 
 /* main blockqoute */
@@ -275,7 +281,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: #3B1F2B !important;
 }
 
 li.logo span {
@@ -356,7 +362,8 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  /* background-color: rgba(0, 0, 0, 0.4); */
+  background-color: #B6A6CA;
   height: 100%;
   left: 0;
   position: absolute;
@@ -475,7 +482,8 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #3B1F2B !important;
+  /* border-bottom: 3px solid #004d40 !important; */
 }
 
 #skills .card.large {
@@ -575,7 +583,8 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  /* color: #008073 !important; */
+  color: #A09ABC !important;
 }
 
 /* .teal-text {
@@ -585,7 +594,8 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  /* background-color: #008073 !important; */
+  background-color: #A09ABC !important;
 }
 
 /* .teal {
@@ -747,7 +757,7 @@ small {
   }
 }
 #publish1{
-  color:#333;
+  color:#3B1F2B;
   opacity: 0.8;
   transition: 0.3s;
   text-transform: capitalize
