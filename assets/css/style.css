@@ -312,6 +312,28 @@ h3 {
   padding-bottom: 30px;
   padding-top: 0;
   position: relative;
+  opacity: 0;
+  transform: translateX(-100px); /* Slide from left */
+  transition: all 1s ease-in-out;
+}
+/* slide from right */
+/* #about, #projects,#education{
+  transform: translateX(50px); 
+} */
+/* Active class that triggers the slide */
+.section.active {
+  opacity: 1;
+  transform: translateX(0); /* Slide into place */
+}
+.card{
+  opacity: 0;
+  transform: translateY(20px); /* Slide up from below */
+  transition: opacity 1.5s ease-in-out, transform 0.5s ease-in-out;
+
+}
+.card.active{
+  opacity: 1;
+  transform: translateY(0); /* Slide up into place */
 }
 
 .full-height {
