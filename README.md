@@ -1,19 +1,19 @@
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+> A clean, beautiful, responsive portfolio template !
 
-> https://varadbhogayata.github.io
+> https://moirangthemsonia.github.io/
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
+![GitHub stars](https://img.shields.io/github/stars/moirangthemsonia/moirangthemsonia.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/moirangthemsonia/moirangthemsonia.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/moirangthemsonia/moirangthemsonia.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://moirangthemsonia.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/moirangthem-sonia-600108171)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://moirangthemsonia.github.io/" target="_blank"><img src="examples/preview_nia.gif">
   </a>
   </kbd>
 </p>
@@ -24,15 +24,15 @@
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Typing animation using `Typed.js`\
+⚡️ Transition Effect using `Effect.js`\
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+- Clone the repository and customize the content of index.html to meet your specific requirements.
+- Modify the moirangthemsonia.github.io/assets/img/ directory by adding or removing images as necessary.
+- To deploy your website, please create a GitHub repository named <your-github-username>github.io, ensuring that no other name is used.
+- Finally, push the generated code to the master branch of the repository.
+- <b>NOTE:</b> Additionally, integrate your personal Google Tag Manager and Google Analytics IDs to track site performance and ensure proper indexing.
 
 ## Sections 📚
 ✔️ About me\
@@ -40,13 +40,12 @@
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
+✔️ Publications\
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
-
 ## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
+* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS, jQuery).
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
@@ -67,6 +66,11 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 #### Step 3
 
 - 🔃 Create a new pull request.
+
+## Acknowledgments 👏
+## Acknowledgments
+
+I would like to express my gratitude to [Varad Bhogayata](https://github.com/varadbhogayata/varadbhogayata.github.io) for their exceptional work on this project. This repository was forked to further develop and enhance the existing ideas and contributions. Their foundational work has greatly facilitated this endeavor.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
